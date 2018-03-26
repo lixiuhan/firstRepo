@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.demo.GreetingsProperties",
+      "name": "greetings",
+      "type": "com.example.demo.GreetingsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.demo.GreetingsProperties",
+      "name": "greetings.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
